@@ -65,7 +65,7 @@ Make sure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/user-profile-generator.git
+git clone https://github.com/ZygmaCore/user-profile-generator.git
 cd user-profile-generator
 ```
 
